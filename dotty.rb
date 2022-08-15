@@ -3,8 +3,8 @@ require "language/go"
 class Dotty < Formula
   desc "dotfiles manager"
   homepage "https://github.com/codethread/dotty"
-  url "https://github.com/codethread/dotty/archive/refs/tags/v1.0.5.tar.gz"
-  sha256 "3d6132399a5df4e00e0edd2a0db6b62e32568ac48720b20f179a662543ace6f8"
+  url "https://github.com/codethread/dotty/archive/refs/tags/v1.0.6.tar.gz"
+  sha256 "d5e72162d4e224de322782fcce2255defda8080eb62ab56dcee5e6e96826855f"
   license "MIT"
 
   depends_on "go" => :build
